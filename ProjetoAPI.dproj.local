@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/09/12 22:15:02.000.884,=C:\Users\almir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/09/13 10:09:19.978,=C:\Users\almir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/09/13 10:09:47.105,C:\Users\almir\OneDrive\Documentos\anderson\projeto_final\TelaPrincipal.pas=C:\Users\almir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/09/13 10:09:47.105,C:\Users\almir\OneDrive\Documentos\anderson\projeto_final\TelaPrincipal.dfm=C:\Users\almir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/09/13 10:10:47.051,C:\Users\almir\OneDrive\Documentos\anderson\projeto_final\ProjetoAPI.dproj=C:\Users\almir\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/09/13 10:25:36.647,=C:\Users\almir\OneDrive\Documentos\anderson\projeto_final\Unit1.pas</Transaction>
+    <Transaction>2026/09/13 10:26:22.982,=C:\Users\almir\OneDrive\Documentos\anderson\projeto_final\Unit1.pas</Transaction>
+    <Transaction>2026/09/13 10:38:28.767,C:\Users\almir\OneDrive\Documentos\anderson\projeto_final\dmDados.dfm=C:\Users\almir\OneDrive\Documentos\anderson\projeto_final\Unit1.dfm</Transaction>
+    <Transaction>2026/09/13 10:38:28.767,C:\Users\almir\OneDrive\Documentos\anderson\projeto_final\dmDados.pas=C:\Users\almir\OneDrive\Documentos\anderson\projeto_final\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
